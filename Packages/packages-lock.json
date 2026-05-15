@@ -14,11 +14,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.2d.aseprite": {
-      "version": "3.0.1",
+      "version": "3.0.2",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.2d.common": "12.0.1",
+        "com.unity.2d.common": "12.0.3",
         "com.unity.2d.sprite": "1.0.0",
         "com.unity.2d.tilemap": "1.0.0",
         "com.unity.mathematics": "1.2.6",
@@ -27,8 +27,8 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.2d.common": {
-      "version": "12.0.2",
-      "depth": 0,
+      "version": "12.0.3",
+      "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.burst": "1.8.4",
@@ -237,7 +237,7 @@
         "com.unity.2d.spriteshape": "13.0.0",
         "com.unity.2d.tilemap": "1.0.0",
         "com.unity.2d.tilemap.extras": "6.0.1",
-        "com.unity.2d.aseprite": "3.0.1",
+        "com.unity.2d.aseprite": "3.0.2",
         "com.unity.2d.tooling": "1.0.2"
       }
     },
